@@ -53,3 +53,4 @@
 \\kings.internal\Staff$\j.campbell\Documents\C# Projects\SQLServerTest\obj\Debug\net8.0\SQLServerTest.pdb
 \\kings.internal\Staff$\j.campbell\Documents\C# Projects\SQLServerTest\obj\Debug\net8.0\SQLServerTest.genruntimeconfig.cache
 \\kings.internal\Staff$\j.campbell\Documents\C# Projects\SQLServerTest\obj\Debug\net8.0\ref\SQLServerTest.dll
+\\kings.internal\Staff$\j.campbell\Documents\C# Projects\SQLServerTest\obj\Debug\net8.0\SQLServerTest.sourcelink.json
